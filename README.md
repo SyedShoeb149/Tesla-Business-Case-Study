@@ -1,8 +1,10 @@
 # Tesla Business Case Study
-  ![image](https://github.com/SyedShoeb149/Tesla-Business-Case-Study/assets/112200757/55ed83a7-527d-451b-bb22-67feac8f8f42)
+## Introduction
+This project aims to provide valuable insights into Tesla, a prominent electric automobile company. It encompasses various key performance indicators (KPIs) such as company size, revenue model, market competitors, public relations, and media. The focus is on understanding the challenges faced by Tesla in the Indian market and providing recommendations for their successful entry and operations in India.
 
-This repository contains a comprehensive business case study on Tesla, focusing on various aspects of the company's operations, revenue model, competitors, socioeconomic factors, public relations, media presence, and market size. The study aims to provide an in-depth understanding of Tesla's business strategies and its position in the automotive industry.
+![image](https://github.com/SyedShoeb149/Tesla-Business-Case-Study/assets/112200757/bd570f34-ac31-4128-a159-e04a577699c6)
 
+## Features 
 
 * Company Overview: A brief introduction to Tesla, and key milestones.
 * Company Size: An analysis of Tesla's revenue and employee count, providing insights into the company's growth and scale.
@@ -11,7 +13,13 @@ This repository contains a comprehensive business case study on Tesla, focusing 
 * Socioeconomic Factors: A discussion on the socioeconomic factors that impact Tesla's business, environmental concerns, and consumer trends.
 * Public Relations and Media: An exploration of Tesla's public relations strategies and media presence, including their impact on brand reputation and public perception.
 
-This project was completed by referring to a variety of online sources and references.
+## Challenges & Learnings
+* Gathering information from different sources.
+* Multitasking.
+* Team building.
+* Connecting different parts of the project into one project.
+
+* This project was completed by referring to a variety of online sources and references.
 
 
 
