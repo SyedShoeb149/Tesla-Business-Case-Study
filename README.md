@@ -2,7 +2,8 @@
 ## Introduction
 This project aims to provide valuable insights into Tesla, a prominent electric automobile company. It encompasses various key performance indicators (KPIs) such as company size, revenue model, market competitors, public relations, and media. The focus is on understanding the challenges faced by Tesla in the Indian market and providing recommendations for their successful entry and operations in India.
 
-![image](https://github.com/SyedShoeb149/Tesla-Business-Case-Study/assets/112200757/bd570f34-ac31-4128-a159-e04a577699c6)
+![image](https://github.com/SyedShoeb149/Tesla-Business-Case-Study/assets/112200757/73590046-1ef0-4a4a-b21e-ec611f5e60e6)
+
 
 ## Features 
 
